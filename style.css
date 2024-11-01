@@ -1,0 +1,115 @@
+body {
+	background-color: #FBFBFB;
+	color: rgb(50,50,50);
+	font-family: 'Lora', serif;
+	font-size: 16px;
+
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	color: #FFBD73;
+	font-family: Courier;
+	font-size: 32px;
+	font-weight: 900;
+}
+
+h2 {
+	color: #FFBD73;
+	font-family: Courier;
+	font-size: 24px;
+	font-weight: Lighter;
+}
+
+a {
+	text-decoration: none;
+	color: #4CC9FE;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #091057;
+}
+
+ul {
+	display: block;
+}
+
+li{
+	display: inline-block;
+	margin: 20px;
+	font-size: 80px;
+
+}
+
+
+.Bloc-intro{
+	height: 450px;
+	width: 70%;
+	border-radius: 40px;
+	background-color: #C6E7FF;
+	position: relative;
+	text-align: center;
+	left: 15%;
+	top: 100px;
+	color: #608BC1;
+
+}
+
+.Bloc-interet{
+	height: 200px;
+	width: 70%;
+	border-radius: 40px;
+	background-color: #C6E7FF;
+	position: relative;
+	left: 15%;
+	top: 120px;
+	text-align: center;
+	color: #608BC1;
+}
+
+.Bloc-famille{ 
+	height: 200px;
+	width: 70%;
+	border-radius: 40px;
+	background-color: #C6E7FF;
+	position: relative;
+	left: 15%;
+	top: 140px;
+	text-align: center;
+	color: #608BC1;
+}
+
+.Bloc-travel{
+	height: 200px;
+	width: 70%;
+	border-radius: 40px;
+	background-color: #C6E7FF;
+	position: relative;
+	left: 15%;
+	top: 160px;
+	text-align: center;
+	color: #608BC1;
+}
+
+.Bloc-follow{
+	height: 200px;
+	width: 70%;
+	border-radius: 40px;
+	background-color: #C6E7FF;
+	position: relative;
+	left: 15%;
+	top: 180px;
+	text-align: center;
+	color: #608BC1;
+}
+
+img {
+	background-size: cover;
+	height: 200px;
+	width: auto;
+	border-radius: 50px;
+}
